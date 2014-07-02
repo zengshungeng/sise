@@ -16,12 +16,10 @@ SOURCES += main.cpp\
         mainwindow.cpp \
     logindialog.cpp \
     aboutdialog.cpp \
-    openfile.cpp
-
+    
 HEADERS  += mainwindow.h \
     logindialog.h \
     aboutdialog.h \
-    openfile.h
 
 FORMS    += mainwindow.ui \
     logindialog.ui \
